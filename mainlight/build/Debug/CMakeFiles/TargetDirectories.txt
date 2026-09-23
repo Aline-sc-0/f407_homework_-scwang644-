@@ -1,0 +1,6 @@
+E:/stmworks/mainlight/build/Debug/CMakeFiles/mainlight.dir
+E:/stmworks/mainlight/build/Debug/CMakeFiles/edit_cache.dir
+E:/stmworks/mainlight/build/Debug/CMakeFiles/rebuild_cache.dir
+E:/stmworks/mainlight/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+E:/stmworks/mainlight/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+E:/stmworks/mainlight/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
