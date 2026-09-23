@@ -5,7 +5,7 @@
 - **完成内容**：
   课上完成点亮小灯的配置，编写，编译，烧录
 - **任务截图**：
-  ![点灯代码](images/屏幕截图 2026-09-24 002146.png)
+  ![点灯代码](https://github.com/Aline-sc-0/f407_homework_-scwang644-/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-09-24%20002146.png)
   
 
 ## 任务二：中断
@@ -13,4 +13,4 @@
 - **完成内容**：
   课上完成
 - **任务截图**：
-  ![中断程序修改](images/屏幕截图 2026-09-24 003215.png)
+  ![中断程序修改](https://github.com/Aline-sc-0/f407_homework_-scwang644-/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-09-24%20003215.png)
