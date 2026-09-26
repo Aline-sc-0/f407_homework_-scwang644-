@@ -14,3 +14,10 @@
   课上完成
 - **任务截图**：
   ![中断程序修改](https://github.com/Aline-sc-0/f407_homework_-scwang644-/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-09-24%20003215.png)
+
+## 任务三：串口
+- **日期**：2026-9-26
+- **完成内容**：串口的轮询，中断，DMA
+  课上完成
+  **任务截图**：
+  ！[DMA](image.png)
