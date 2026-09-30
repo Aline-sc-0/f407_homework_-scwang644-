@@ -1,0 +1,6 @@
+E:/pnx/RM27-tutorial-PID (1)/User/DJIMotor/Inc/DJIMotor.hpp:130:5:DJIMotor::DJIMotor()	16	static
+E:/pnx/RM27-tutorial-PID (1)/User/DJIMotor/Src/M3508.cpp:3:1:M3508::M3508()	16	static
+E:/pnx/RM27-tutorial-PID (1)/User/DJIMotor/Src/M3508.cpp:10:26:virtual DJIMotor::MotorStateTypedef M3508::AliveCheck()	16	static
+E:/pnx/RM27-tutorial-PID (1)/User/DJIMotor/Src/M3508.cpp:24:6:virtual void M3508::BlockedCheck()	16	static
+E:/pnx/RM27-tutorial-PID (1)/User/DJIMotor/Inc/M3508.hpp:27:13:M3508::~M3508()	16	static
+E:/pnx/RM27-tutorial-PID (1)/User/DJIMotor/Inc/M3508.hpp:27:13:virtual M3508::~M3508()	16	static

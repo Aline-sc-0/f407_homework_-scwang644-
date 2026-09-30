@@ -1,0 +1,6 @@
+E:/pnx/RM27-tutorial-PID (1)/User/DJIMotor/Inc/DJIMotor.hpp:130:5:DJIMotor::DJIMotor()	16	static
+E:/pnx/RM27-tutorial-PID (1)/User/DJIMotor/Src/M2006.cpp:3:1:M2006::M2006()	16	static
+E:/pnx/RM27-tutorial-PID (1)/User/DJIMotor/Src/M2006.cpp:10:26:virtual DJIMotor::MotorStateTypedef M2006::AliveCheck()	16	static
+E:/pnx/RM27-tutorial-PID (1)/User/DJIMotor/Src/M2006.cpp:24:6:virtual void M2006::BlockedCheck()	16	static
+E:/pnx/RM27-tutorial-PID (1)/User/DJIMotor/Inc/M2006.hpp:27:13:M2006::~M2006()	16	static
+E:/pnx/RM27-tutorial-PID (1)/User/DJIMotor/Inc/M2006.hpp:27:13:virtual M2006::~M2006()	16	static

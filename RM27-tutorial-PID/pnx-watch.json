@@ -1,0 +1,90 @@
+{
+  "format": "pnx-watch",
+  "version": 1,
+  "groups": [
+    {
+      "id": "default",
+      "name": "默认组"
+    }
+  ],
+  "plots": [
+    {
+      "id": "plot-1",
+      "name": "曲线 1",
+      "groupId": "default",
+      "seconds": 19.53125
+    },
+    {
+      "id": "plot-2",
+      "name": "曲线 2",
+      "groupId": "default",
+      "seconds": 10
+    }
+  ],
+  "variables": [
+    {
+      "expression": "debug_spd_data.ref",
+      "plotId": "plot-1"
+    },
+    {
+      "expression": "debug_spd_data.fdb",
+      "plotId": "plot-1"
+    },
+    {
+      "expression": "debug_pos_data.ref",
+      "plotId": "plot-2"
+    },
+    {
+      "expression": "debug_pos_data.fdb",
+      "plotId": "plot-2"
+    },
+    {
+      "expression": "debug_pos_data.result",
+      "plotId": "watch-only"
+    },
+    {
+      "expression": "position_pid_tuning.kp",
+      "plotId": "watch-only"
+    },
+    {
+      "expression": "position_pid_tuning.ki",
+      "plotId": "watch-only"
+    },
+    {
+      "expression": "position_pid_tuning.kd",
+      "plotId": "watch-only"
+    },
+    {
+      "expression": "position_pid_tuning.maxOut",
+      "plotId": "watch-only"
+    },
+    {
+      "expression": "position_pid_tuning.maxIOut",
+      "plotId": "watch-only"
+    },
+    {
+      "expression": "speed_pid_tuning.kp",
+      "plotId": "watch-only"
+    },
+    {
+      "expression": "speed_pid_tuning.ki",
+      "plotId": "watch-only"
+    },
+    {
+      "expression": "speed_pid_tuning.kd",
+      "plotId": "watch-only"
+    },
+    {
+      "expression": "speed_pid_tuning.maxOut",
+      "plotId": "watch-only"
+    },
+    {
+      "expression": "speed_pid_tuning.maxIOut",
+      "plotId": "watch-only"
+    }
+  ],
+  "activeGroup": "default",
+  "columns": 2,
+  "seconds": 10,
+  "rate": 1000
+}

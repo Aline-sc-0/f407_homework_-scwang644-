@@ -1,0 +1,22 @@
+E:/GNU/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/c++/13.3.1/cmath:272:3:constexpr float std::fmod(float, float)	16	static
+E:/pnx/RM27-tutorial-PID/User/Lib/Math/math.cpp:9:11:float Numeric::LoopFloatConstrain(float, float, float)	32	static
+E:/pnx/RM27-tutorial-PID/User/Lib/Math/math.cpp:29:11:float Numeric::FloatConstrain(float, float, float)	24	static
+E:/pnx/RM27-tutorial-PID/User/Lib/Math/math.cpp:43:11:float Numeric::LimitABS(float, float)	16	static
+E:/pnx/RM27-tutorial-PID/User/Lib/Math/math.cpp:56:11:float Numeric::LimitABS_SMALLER(float, float, float)	24	static
+E:/pnx/RM27-tutorial-PID/User/Lib/Math/math.cpp:70:14:uint32_t Numeric::ConvertToFixed(float, float, float)	24	static
+E:/pnx/RM27-tutorial-PID/User/Lib/Math/math.cpp:75:11:float Numeric::ConvertFromFixed(uint32_t, float, float)	24	static
+E:/pnx/RM27-tutorial-PID/User/Lib/Math/math.cpp:80:11:float Numeric::invSqrt(float)	24	static
+E:/pnx/RM27-tutorial-PID/User/Lib/Math/math.cpp:90:11:float Numeric::Sqrt(float)	32	static
+E:/pnx/RM27-tutorial-PID/User/Lib/Math/math.cpp:116:11:float Numeric::abs(float)	16	static
+E:/pnx/RM27-tutorial-PID/User/Lib/Math/math.cpp:121:11:float Numeric::sign(float)	16	static
+E:/pnx/RM27-tutorial-PID/User/Lib/Math/math.cpp:133:11:float Numeric::FloatDeadband(float, float, float)	24	static
+E:/pnx/RM27-tutorial-PID/User/Lib/Math/math.cpp:142:13:int16_t Numeric::Int16Constrain(int16_t, int16_t, int16_t)	16	static
+E:/pnx/RM27-tutorial-PID/User/Lib/Math/math.cpp:152:11:float Numeric::ThetaFormat(float)	16	static
+E:/pnx/RM27-tutorial-PID/User/Lib/Math/math.cpp:157:9:int Numeric::FloatRounding(float)	16	static
+E:/pnx/RM27-tutorial-PID/User/Lib/Math/math.cpp:168:9:int Numeric::float_to_uint(float, float, float, int)	32	static
+E:/pnx/RM27-tutorial-PID/User/Lib/Math/math.cpp:176:11:float Numeric::uint_to_float(int, float, float, int)	32	static
+E:/pnx/RM27-tutorial-PID/User/Lib/Math/math.cpp:187:10:void Matrix::MatInit(mat*, uint8_t, uint8_t)	16	static
+E:/pnx/RM27-tutorial-PID/User/Lib/Math/math.cpp:195:12:float* Matrix::Norm3d(float*)	24	static
+E:/pnx/RM27-tutorial-PID/User/Lib/Math/math.cpp:205:11:float Matrix::NormOf3d(float*)	16	static
+E:/pnx/RM27-tutorial-PID/User/Lib/Math/math.cpp:211:10:void Matrix::Cross3d(float*, float*, float*)	24	static
+E:/pnx/RM27-tutorial-PID/User/Lib/Math/math.cpp:219:11:float Matrix::Dot3d(float*, float*)	16	static

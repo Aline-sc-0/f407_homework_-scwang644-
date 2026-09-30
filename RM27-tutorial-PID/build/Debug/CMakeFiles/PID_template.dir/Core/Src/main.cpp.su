@@ -1,0 +1,10 @@
+E:/GNU/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/c++/13.3.1/cmath:177:3:constexpr float std::cos(float)	16	static
+E:/pnx/RM27-tutorial-PID/User/DJIMotor/Inc/DJIMotorHandler.hpp:79:29:static DJIMotorHandler* DJIMotorHandler::Instance()	8	static
+E:/pnx/RM27-tutorial-PID/User/Lib/Ref/ref.hpp:17:11:float RefCurve::Value(uint32_t) const	48	static
+E:/pnx/RM27-tutorial-PID/Core/Src/main.cpp:98:5:int main()	56	static
+E:/pnx/RM27-tutorial-PID/Core/Src/main.cpp:174:6:void SystemClock_Config()	88	static
+E:/pnx/RM27-tutorial-PID/Core/Src/main.cpp:225:6:void Error_Handler()	4	static
+E:/pnx/RM27-tutorial-PID/User/DJIMotor/Inc/M2006.hpp:27:13:M2006::~M2006()	16	static
+E:/pnx/RM27-tutorial-PID/User/DJIMotor/Inc/M2006.hpp:27:13:virtual M2006::~M2006()	16	static
+E:/pnx/RM27-tutorial-PID/Core/Src/main.cpp:234:1:void __static_initialization_and_destruction_0()	8	static
+E:/pnx/RM27-tutorial-PID/Core/Src/main.cpp:234:1:cpp)	8	static
