@@ -1,0 +1,7 @@
+E:/stmworks/nationalday/2/rm27_training_framework_hw-main/build/Debug/CMakeFiles/board.dir
+E:/stmworks/nationalday/2/rm27_training_framework_hw-main/build/Debug/CMakeFiles/edit_cache.dir
+E:/stmworks/nationalday/2/rm27_training_framework_hw-main/build/Debug/CMakeFiles/rebuild_cache.dir
+E:/stmworks/nationalday/2/rm27_training_framework_hw-main/build/Debug/board/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+E:/stmworks/nationalday/2/rm27_training_framework_hw-main/build/Debug/board/cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir
+E:/stmworks/nationalday/2/rm27_training_framework_hw-main/build/Debug/board/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+E:/stmworks/nationalday/2/rm27_training_framework_hw-main/build/Debug/board/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
